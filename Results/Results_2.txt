@@ -1,0 +1,29 @@
+Cost Function : Sphere, Range : [-100.000, 100.000], Dimension : 2
+
+	ICA after 100 iterations : 
+		 Best Cost : 4.141e-33
+		 Worst Cost : 5.480e-19
+		 Mean of Costs : 5.4817e-20 ± 1.7329e-19
+		 # of Cost function evaluation : 17600
+		 Mean of elapsed time : 1.013e+00 ± 3.649e-01
+	 Algorithm complexity measures: 
+		 T1 :  1.012679 
+		 T2 = (mean(T) - min(T))/T0 : 3.381291 depending on base time T0 : 0.089031 seconds
+
+
+	ICA with mutation after 100 iterations : 
+		 Best Cost : 2.813e-39
+		 Worst Cost : 2.434e-30
+		 Mean of Costs : 2.4393e-31 ± 7.6968e-31
+		 # of Cost function evaluation : 29209
+		 Mean of elapsed time : 4.298e+00 ± 1.924e+00
+	 Algorithm complexity measures: 
+		 T1 :  4.297549 
+		 T2 = (mean(T) - min(T))/T0 : 17.191257 depending on base time T0 : 0.089031 seconds
+
+	The number of succesful Regional Domination operation : 100
+
+
+-----------------------------------------------------------------------
+
+

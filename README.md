@@ -3,8 +3,11 @@ This repository includes the implementation of Imperialist Competitive Algorithm
 
 
 Copyright (c) 2018, Korhan Gunel
+
 All rights reserved.
+
 Developer: Korhan Gunel (Adnan Menderes University, Department of Mathematics)
+
 Contact Info: kgunel@adu.edu.tr
 
 This study is submitted to SCI journal, and it is under review. If used it, please cite as

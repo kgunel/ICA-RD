@@ -10,6 +10,6 @@ Developer: Korhan Gunel (Adnan Menderes University, Department of Mathematics)
 
 Contact Info: kgunel@adu.edu.tr
 
-This study is submitted to SCI journal, and it is under review. If used it, please cite as
+This study has been accepted to publish in the <a href="https://www.springer.com/journal/13369/">Arabian Journal for Science and Engineering</a>. If used it, please cite as
 
-Günel, K., Gör, İ., and Tekeli, K. (2020). ICA-RD: The Regional Domination Policy for Imperialist Competitive Algorithm - From Imperialism to Internationalism, The software is available on GitHub codebase: https://github.com/kgunel/ICA-RD.
+Günel, K., Gör, İ., and Tekeli, K. (2020). ICA-RD: The Regional Domination Policy for Imperialist Competitive Algorithm - From Imperialism to Internationalism, Arabian Journal for Science and Engineering, in-press. The software is available on GitHub codebase: https://github.com/kgunel/ICA-RD.

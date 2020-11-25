@@ -12,4 +12,4 @@ Contact Info: kgunel@adu.edu.tr
 
 This study has been accepted to publish in the <a href="https://www.springer.com/journal/13369/">Arabian Journal for Science and Engineering</a>. If used it, please cite as
 
-Günel, K., Gör, İ., and Tekeli, K. (2020). ICA-RD: The Regional Domination Policy for Imperialist Competitive Algorithm - From Imperialism to Internationalism, Arab J Sci Eng. vol.<b>45/<b>(12), pp. 10529-10589. doi: https://doi.org/10.1007/s13369-020-04787-x. The software is available on GitHub codebase: https://github.com/kgunel/ICA-RD.
+Günel, K., Gör, İ., and Tekeli, K. (2020). ICA-RD: The Regional Domination Policy for Imperialist Competitive Algorithm - From Imperialism to Internationalism, Arab J Sci Eng. vol.<b>45</b>(12), pp. 10529-10589. doi: https://doi.org/10.1007/s13369-020-04787-x. The software is available on GitHub codebase: https://github.com/kgunel/ICA-RD.
